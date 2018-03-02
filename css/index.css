@@ -1,0 +1,133 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+#main_frame{
+	width:100%;
+	height:3500px;
+}
+#head{
+	position:absolute;
+	height:6%;
+	width:100%;
+	background:rgba(0, 0, 50, 0.3);
+}
+#first_blok{
+	width:100%;
+	height:18%;
+}
+#directions_block{
+	width:100%;
+	height:25%;
+}
+.name_directions{
+	font-size:20px;
+	padding-left:41%;
+	padding-top:3.5%;
+}
+.national_dance{
+	position:relative;
+	float:left;
+	width:31%;
+	height:38%;
+	margin-left:15%;
+	margin-top:4%;
+}
+.national_dance:hover{
+	box-shadow:0 0 50px rgba(0,0,0,0.5);
+}
+#national_dance_back{
+	position:absolute;
+	margin-top:-84%;
+	height:100%;
+	width:100%;
+	background:rgba(0, 0, 0, 0.67);
+}
+#national_dance_back a{
+	color:white;
+}
+#national_dance_back a h2{
+	padding-left:27%;
+	padding-top:18%;
+}
+#national_dance_back a h4{
+	font-size:17px;
+	text-align:center;
+	margin-left:4%;
+	margin-top:8%;
+}
+.balet_dance{
+	position:relative;
+	float:right;
+	width:31%;
+	height:38%;
+	margin-right:15%;
+	margin-top:4%;
+}
+.balet_dance:hover{
+	box-shadow:0 0 50px rgba(0,0,0,0.5);
+}
+#balet_dance_back{
+	position:absolute;
+	margin-top:-84%;
+	height:100%;
+	width:100%;
+	background:rgba(0, 0, 0, 0.67);
+}
+#balet_dance_back a{
+	color:white;
+}
+#balet_dance_back a h2{
+	padding-left:27%;
+	padding-top:35%;	
+}
+.estrada_dance{
+	position:relative;
+	float:left;
+	width:31%;
+	height:38%;
+	margin-top:3%;
+	margin-left:15%;
+}
+.estrada_dance:hover{
+	box-shadow:0 0 50px rgba(0,0,0,0.5);
+}
+#estrada_dance_back{
+	position:absolute;
+	margin-top:-84%;
+	height:100%;
+	width:100%;
+	background:rgba(0, 0, 0, 0.67);
+}
+#estrada_dance_back a h2{
+	padding-left:27%;
+	padding-top:15%;
+}
+#estrada_dance_back a h4{
+	font-size:17px;
+	text-align:center;
+	margin-left:4%;
+	margin-top:8%;
+}
+.nowdays_dance{
+	position:relative;
+	float:right;
+	width:31%;
+	height:38%;
+	margin-right:15%;
+	margin-top:3%;
+}
+.nowdays_dance:hover{
+	box-shadow:0 0 50px rgba(0,0,0,0.5);	
+}
+#nowdays_dance_back{
+	position:absolute;
+	margin-top:-84%;
+	height:100%;
+	width:100%;
+	background:rgba(0, 0, 0, 0.67);
+}
+#nowdays_dance_back a h2{
+	padding-left:27%;
+	padding-top:35%;
+}
